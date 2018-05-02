@@ -1,0 +1,4 @@
+D:\Desktop\Pizza1\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\Desktop\Pizza1\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+D:\Desktop\Pizza1\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+D:\Desktop\Pizza1\App\Pizza1\Pizza1.csproj;x86
